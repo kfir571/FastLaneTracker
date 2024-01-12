@@ -1,0 +1,17 @@
+div{
+    background-color: bisque;
+    border-radius: 8px;
+    text-align: center;
+    margin: 20px;
+    padding: 30px;
+}
+
+.underline-text{
+    text-decoration: underline;
+    text-decoration-color: #000000; /* Optional: change underline color */
+
+}
+
+#currnt_day{
+    font-size: 30px;
+}
